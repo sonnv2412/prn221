@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ReverseRemoteClient01/1.0.0": {
+        "runtime": {
+          "ReverseRemoteClient01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReverseRemoteClient01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
